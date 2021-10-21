@@ -3,12 +3,12 @@ import java.util.List;
 import java.util.Scanner;
 
 import entities.User;
+import entities.expense.ExpenseType;
 import entities.split.EqualSplit;
 import entities.split.ExactSplit;
 import entities.split.PercentSplit;
 import entities.split.Split;
 import exceptions.InputException;
-import entities.ExpenseType;
 
 public class Driver {
 

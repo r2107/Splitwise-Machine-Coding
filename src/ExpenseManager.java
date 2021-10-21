@@ -3,9 +3,9 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-import entities.Expense;
-import entities.ExpenseType;
 import entities.User;
+import entities.expense.Expense;
+import entities.expense.ExpenseType;
 import entities.split.Split;
 import exceptions.InputException;
 

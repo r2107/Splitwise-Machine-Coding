@@ -1,4 +1,4 @@
-package entities;
+package entities.expense;
 
 public enum ExpenseType {
 	EQUAL,

@@ -1,11 +1,11 @@
 import java.util.List;
 
-import entities.EqualExpense;
-import entities.ExactExpense;
-import entities.Expense;
-import entities.ExpenseType;
-import entities.PercentExpense;
 import entities.User;
+import entities.expense.EqualExpense;
+import entities.expense.ExactExpense;
+import entities.expense.Expense;
+import entities.expense.ExpenseType;
+import entities.expense.PercentExpense;
 import entities.split.PercentSplit;
 import entities.split.Split;
 import exceptions.InputException;

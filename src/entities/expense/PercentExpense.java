@@ -1,7 +1,8 @@
-	package entities;
+	package entities.expense;
 
 import java.util.List;
 
+import entities.User;
 import entities.split.PercentSplit;
 import entities.split.Split;
 
